@@ -1,0 +1,18 @@
+﻿Gösterge Grubu,Parametre,Değer,Birim,Gayrimenkul Etkisi
+Nüfus Büyüklüğü,Kayseri Toplam Nüfusu,1.458.991,Kişi,Doğrudan Konut Talebi
+Nüfus Büyüklüğü,Nüfus Artış Hızı,4.5,‰ (Binde),Yeni Konut İhtiyacı Eğilimi
+Nüfus Büyüklüğü,Nüfus Yoğunluğu,85.3,Kişi/km²,Arsa Payı Değeri
+Yaş ve Cinsiyet,Erkek Nüfus,728.836,Kişi (%49.9),Cinsiyet Dağılımı
+Yaş ve Cinsiyet,Kadın Nüfus,730.155,Kişi (%50.1),Cinsiyet Dağılımı
+Yaş ve Cinsiyet,Ortanca Yaş (Genel),34.9,Yıl,İlk Konut Satın Alma Yaşı
+Yaş ve Cinsiyet,Genç Nüfus (15-24 Yaş),218.848,Kişi (%15.0),Öğrenci & Stüdyo Daire Talebi
+Yaş ve Cinsiyet,Çalışma Çağı Nüfusu (15-64 Yaş),977.523,Kişi (%67.0),İş/Konut Kredisi Potansiyeli
+Medeni Durum,Evli Nüfus Oranı,%64.1,%,3+1 ve 4+1 Geniş Konut Talebi
+Medeni Durum,Hiç Evlenmemiş Nüfus Oranı,%27.3,%,1+1 / 2+1 Küçük Konut Talebi
+Medeni Durum,Boşanmış / Eşi Ölmüş Nüfus Oranı,%8.6,%,Tekil İkametgâh İhtiyacı
+Hanehalkı İstatistikleri,Toplam Hanehalkı Sayısı,424.008,Hane,Gerekli Konut Stoku
+Hanehalkı İstatistikleri,Ortalama Hanehalkı Büyüklüğü,3.44,Kişi/Hane,Ortalama Oda Sayısı İhtiyacı
+Hanehalkı İstatistikleri,Tek Kişilik Hanehalkı Oranı,%17.2,%,Kiralık / Stüdyo Daire Baskısı
+Hanehalkı İstatistikleri,Çekirdek Aile Hanehalkı Oranı,%65.8,%,Aile Tipi Siteler ve Konutlar
+Yabancı Nüfus Büyüklüğü,Kayseri Yabancı Nüfusu,16.408,Kişi,Kiralık Konut Baskısı
+Yabancı Nüfus Büyüklüğü,Yurtdışı Doğumlu Nüfus Sayısı,30.270,Kişi,Dış Yatırım & Satın Alma Potansiyeli

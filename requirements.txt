@@ -1,0 +1,14 @@
+beautifulsoup4
+matplotlib
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+plotly
+openpyxl
+fpdf2
+scikit-learn
+selenium
+webdriver-manager 
+geopy

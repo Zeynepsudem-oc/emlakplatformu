@@ -1,0 +1,176 @@
+{
+  "KAYSERİ": {
+    "kartlar": {
+      "NÜFUS": {
+        "Toplam": "1.458.991",
+        "Erkek": "728.836",
+        "Kadın": "730.155",
+        "Ortanca Yaş": "34,9",
+        "Nüfus Yoğunluğu": "85,3",
+        "Nüfus Artış Hızı(Binde)": "4,5",
+        "Yabancı Nüfus": "16.408",
+        "Yurtdışı Doğumlu Nüfus": "30.270"
+      },
+      "İÇ GÖÇ / ULUSLARARASI GÖÇ": {
+        "Diğer İllerden Aldığı Göç": "38.374",
+        "Diğer İllere Verdiği Göç": "38.902",
+        "Diğer Ülkelerden Aldığı Göç": "3.661",
+        "Diğer Ülkelere Verdiği Göç": "4.907"
+      },
+      "HANEHALKI NİTELİKLERİ": {
+        "Toplam Hanehalkı Sayısı": "456.415",
+        "Ortalama Hanehalkı Büyüklüğü": "3,1",
+        "Tek Kişilik": "79.382",
+        "Tek Çekirdek Aileden Oluşan": "316.365",
+        "Geniş Aileden Oluşan": "51.405",
+        "Çekirdek Aile Bulunmayan": "9.263"
+      },
+      "MEDENİ DURUM": {
+        "Hiç Evlenmedi": "312.508",
+        "Evli": "723.039",
+        "Boşandı": "55.614",
+        "Eşi Öldü": "65.730"
+      },
+      "EĞİTİM DURUMU": {
+        "Okuma Yazma Bilmeyen": "24.860",
+        "Okuma Yazma Bilen Bir Okul Bitirmeyen": "116.828",
+        "İlkokul": "292.018",
+        "İlköğretim": "85.243",
+        "Ortaokul/ Dengi Meslek Okulu": "236.810",
+        "Lise/ Dengi Meslek Okulu": "336.223",
+        "Yüksekokul/ Fakülte": "222.394",
+        "Yüksek Lisans Ve Üzeri": "31.346"
+      },
+      "HAYATİ İSTATİSTİKLER": {
+        "Canlı Doğum Sayısı": "15.326",
+        "Toplam Doğurganlık Hızı": "1,46",
+        "Ölüm Sayısı": "8.049",
+        "Boşanma Sayısı": "3.895",
+        "Evlenme Sayısı": "9.763",
+        "İlk Evlenme Yaşı(Erkek)": "28",
+        "İlk Evlenme Yaşı(Kadın)": "25,6"
+      },
+      "İSİM İSTATİSTİKLER": {
+        "En Çok Verilen Erkek Bebek İsmi": "ALPARSLAN",
+        "En Cok Verilen Kız Bebek İsmi": "GÖKÇE",
+        "En Çok Kullanılan Erkek İsmi": "MUSTAFA",
+        "En Çok Kullanılan Kadın İsmi": "FATMA"
+      }
+    },
+    "nufus_grafigi": {
+      "yillar": [
+        1927,
+        1935,
+        1940,
+        1945,
+        1950,
+        1955,
+        1960,
+        1965,
+        1970,
+        1975,
+        1980,
+        1985,
+        1990,
+        2000,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "seriler": [
+        {
+          "ad": "Erkek",
+          "veri": [
+            118488,
+            149737,
+            167373,
+            183775,
+            199196,
+            210707,
+            241655,
+            266972,
+            293904,
+            342613,
+            389220,
+            430545,
+            471874,
+            529584,
+            584656,
+            595275,
+            607022,
+            621667,
+            631165,
+            640095,
+            649851,
+            663249,
+            672828,
+            681269,
+            689595,
+            696658,
+            705545,
+            712710,
+            719061,
+            721809,
+            722569,
+            725633,
+            728836
+          ]
+        },
+        {
+          "ad": "Kadın",
+          "veri": [
+            132882,
+            160721,
+            175596,
+            186314,
+            204665,
+            211303,
+            238732,
+            269234,
+            304789,
+            334196,
+            389163,
+            433515,
+            471610,
+            530848,
+            580432,
+            589111,
+            598850,
+            612984,
+            624184,
+            634873,
+            645504,
+            659127,
+            668228,
+            677711,
+            687127,
+            693022,
+            701864,
+            708745,
+            715296,
+            719714,
+            723114,
+            726825,
+            730155
+          ]
+        }
+      ]
+    }
+  }
+}
