@@ -323,7 +323,7 @@ with tab_degerleme:
                 fg_kume.add_to(m)
  
                 if isi_haritasi_goster:
-                    fg_isi = folium.FeatureGroup(name="Yoğunluk (Isı Haritası)", show=False)
+                    fg_isi = folium.FeatureGroup(name="Yoğunluk (Isı Haritası)", show=True)
                     HeatMap(isi_verisi, radius=18, blur=15).add_to(fg_isi)
                     fg_isi.add_to(m)
  
